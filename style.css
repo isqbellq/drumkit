@@ -31,6 +31,7 @@ h1 {
 	color: #ccc;
 	text-shadow: #000;
 	background: rgba(0,0,0,0.4);
+	flex: 1;
 }
 .sound {
 	text-transform: uppercase;
@@ -39,6 +40,7 @@ h1 {
 	color: #ccc;
 	font-size: 12px;
 	font-weight: bold;
+	flex: 1;
 }
 .playing {
 	transform: scale(1.1);
